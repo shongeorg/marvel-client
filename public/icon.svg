@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Marvel Explorer">
+  <defs>
+    <linearGradient id="mx-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff3b40" />
+      <stop offset="1" stop-color="#b3171c" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" fill="url(#mx-bg)" />
+  <g transform="translate(256 256) scale(0.86) translate(-256 -256)">
+    <path
+      fill="#ffffff"
+      d="M96 112 L168 112 L256 250 L344 112 L416 112 L416 400 L344 400 L344 246 L256 384 L168 246 L168 400 L96 400 Z"
+    />
+  </g>
+</svg>
